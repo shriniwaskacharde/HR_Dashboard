@@ -25,9 +25,6 @@ The dashboard helps analyze employee data such as:
 - Department Analysis
 - Employee Attrition Insights
 
-## 📷 Dashboard Preview
-https://github.com/shriniwaskacharde/HR_Dashboard/blob/main/HR_Dashboard_Image.png
-
 ## 🚀 How to Use
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
@@ -35,3 +32,7 @@ https://github.com/shriniwaskacharde/HR_Dashboard/blob/main/HR_Dashboard_Image.p
 
 ## 👨‍💻 Author
 Shriniwas Kacharde
+
+## 📷 Dashboard Preview
+https://github.com/shriniwaskacharde/HR_Dashboard/blob/main/HR_Dashboard_Image.png
+
